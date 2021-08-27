@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest identifier="com.H5PAuthor.The6Is.a20b0771-b5cb-455b-b3b0-f7063b18110b" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="com.H5PAuthor.The6Is.a8df0ef4-22a7-478d-9d37-0a76f275c52c" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -183,7 +183,7 @@
       <file href="workspace/H5PEditor.ShowWhen-1.0/h5p-show-when.js"/>
       <file href="workspace/H5PEditor.ShowWhen-1.0/library.json"/>
       <file href="workspace/content/content.json"/>
-      <file href="workspace/content/images/image-6128d142892d9.png"/>
+      <file href="workspace/content/images/image-61040d686cfe0.png"/>
       <file href="workspace/h5p.json"/>
     </resource>
   </resources>

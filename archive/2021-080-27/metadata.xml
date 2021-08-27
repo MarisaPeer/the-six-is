@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.H5PAuthor.The6Is.a20b0771-b5cb-455b-b3b0-f7063b18110b</entry>
+      <entry>com.H5PAuthor.The6Is.a8df0ef4-22a7-478d-9d37-0a76f275c52c</entry>
     </identifier>
     <language>en-EN</language>
     <contribute>
@@ -20,9 +20,9 @@ ORG:H5P Author
 END:VCARD  ]]>
       </entity>
       <date>
-        <dateTime>2021-08-27</dateTime>
+        <dateTime>2021-07-30</dateTime>
         <description language="en-EN">
-          <![CDATA[1630022442127]]>
+          <![CDATA[1626912039006]]>
         </description>
       </date>
     </contribute>
@@ -30,7 +30,7 @@ END:VCARD  ]]>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.H5PAuthor.The6Is.a20b0771-b5cb-455b-b3b0-f7063b18110b</entry>
+      <entry>com.H5PAuthor.The6Is.a8df0ef4-22a7-478d-9d37-0a76f275c52c</entry>
     </identifier>
     <title>
       <string language="en-EN">
@@ -68,9 +68,9 @@ ORG:H5P Author
 END:VCARD  ]]>
       </entity>
       <date>
-        <dateTime>2021-08-27</dateTime>
+        <dateTime>2021-07-30</dateTime>
         <description language="en-EN">
-          <![CDATA[1630022442127]]>
+          <![CDATA[1626912039006]]>
         </description>
       </date>
     </contribute>
@@ -86,9 +86,9 @@ ORG:H5P Author
 END:VCARD  ]]>
       </entity>
       <date>
-        <dateTime>2021-08-27</dateTime>
+        <dateTime>2021-07-30</dateTime>
         <description language="en-EN">
-          <![CDATA[1630022442127]]>
+          <![CDATA[1626912039006]]>
         </description>
       </date>
     </contribute>
@@ -105,9 +105,9 @@ ORG:H5P Author
 END:VCARD  ]]>
       </entity>
       <date>
-        <dateTime>2021-08-27</dateTime>
+        <dateTime>2021-07-30</dateTime>
         <description language="en-EN">
-          <![CDATA[1630022442127]]>
+          <![CDATA[1626912039006]]>
         </description>
       </date>
     </contribute>
@@ -123,9 +123,9 @@ ORG:H5P Author
 END:VCARD  ]]>
       </entity>
       <date>
-        <dateTime>2021-08-27</dateTime>
+        <dateTime>2021-07-30</dateTime>
         <description language="en-EN">
-          <![CDATA[1630022442127]]>
+          <![CDATA[1626912039006]]>
         </description>
       </date>
     </contribute>
